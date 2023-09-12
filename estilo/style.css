@@ -53,14 +53,14 @@ header a, footer a{
     background-image: url("../imagens/background001.jpg");
     background-position:right center;
     background-size: cover;
-    
+    width: 100%;
 
  }
  section#img02{
 background-image: url("../imagens/background002.jpg");
 background-size: cover;
 background-position:right center;
-
+width: 100%;
  }
  section >p{
     padding: 2em;
@@ -86,5 +86,4 @@ background-position:right center;
     text-align: center;
     padding: 7px;
     font-family: var(--fonte1);
-    margin: 0px;
  }
