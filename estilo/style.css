@@ -27,6 +27,7 @@ header >h1{
     font-family: var(--fonte1);
     padding: 10vh;
     font-size: 4em;
+    margin: auto;
 }
 header >p{
     padding-bottom: 50px;
@@ -74,6 +75,7 @@ background-position:right center;
  section.normal{
     background-color:#fff;
     color: #000;
+    padding: 4px;
  }
 
  section.imagem{
